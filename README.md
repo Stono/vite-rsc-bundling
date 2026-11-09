@@ -36,5 +36,3 @@ The direct-subpath variant avoids the large development graph:
 - import { Check } from 'lucide-react'
 + import Check from 'lucide-react/icons/check'
 ```
-
-The reproduction does not use React Router or `@at/react-router-dev`.
